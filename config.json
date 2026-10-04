@@ -1,0 +1,11 @@
+{
+  "profile": "sun",
+  "model_name": "Japanese-words",
+  "deck_name": "Kindle",
+  "word_field": "Word",
+  "definition_field": "Description",
+  "sentence_field": "Additional",
+  "source_field": "References",
+  "anki_url": "http://127.0.0.1:8765",
+  "language": "ja"
+}

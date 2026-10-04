@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.db
+*.db-wal
+*.db-shm
+*.anki2
+*.anki2-wal
+*.anki2-shm
+definitions*.json
+preview*.json
+import-history.sqlite3*
