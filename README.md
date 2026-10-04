@@ -1,7 +1,6 @@
 # Kindle → Anki CLI
 
-Import Japanese Vocabulary Builder words from a USB-connected Kindle into the
-`sun` Anki profile, `Kindle` deck, and existing `Japanese-words` note type.
+Import Japanese Vocabulary Builder words from a USB-connected Kindle, `Kindle` deck, and existing `Japanese-words` note type.
 Requires Python 3.10+ on Linux, an internet connection for definitions, and the
 already-installed AnkiConnect add-on. No Python packages need to be installed.
 
